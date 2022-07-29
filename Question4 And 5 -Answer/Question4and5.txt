@@ -1,0 +1,17 @@
+
+4. Describe the best project you have worked on, including links if any.
+
+Netflix Clone:
+
+This project is a simplified front end clone of Netflix. It was created with Html and CSS (Grid and Flexbox) and Javascript. It uses The MovieDB Api to search for movies and display details.
+
+Project Links:
+
+https://github.com/Vijay75021/UI-Developer-Test.git
+
+https://replit.com/join/dbydaeweyg-vijayreddy123
+
+5.If you are to start a software company, name 2 people from your batch whom you will choose as your partner and why?
+
+I would  choose Vikas and Siddu as my partners.Because they both have amazing technical knowledge required to run a software company and they are also well equipped with business management skills
+and ability to communicate and deal with large clients.Adding to that they are very good team players so having them as my partners will benefit my company in several ways.
